@@ -1,2 +1,3 @@
-# config_files
-My personal configuration files
+# Config files
+My personal configuration files for both windows and linux
+
