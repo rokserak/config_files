@@ -1,5 +1,5 @@
 startup_message off
 hardstatus alwayslastline
-hardstatus string '%{= G}[ %{= kw}%?%-Lw%?%{y}[%{W}%n*%f%t%?(%u)%?%{y}]%{w}%?%+Lw%?%? %= %{g}][%{B} %{W}%c:%s %d/%m/%y %{g}]'
+hardstatus string '%{= G}[ %{= k}%?%-Lw%?%{y}[%{W}%n*%f%t%?(%u)%?%{y}]%{w}%?%+Lw%?%? %= %{g}][%{B} %{W}%c:%s %d/%m/%y %{g}]'
 term 'screen-256color'
 
